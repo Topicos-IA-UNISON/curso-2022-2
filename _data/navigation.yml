@@ -1,0 +1,18 @@
+- name: Acuerdos
+  link: /#
+  dropdown:
+    - name: Temario 
+      link: /temario/
+    - name: Evaluación
+      link: /evalua/
+    - name: Lenguaje de programación
+      link: /lang/
+- name: Temas
+  link: /#
+  dropdown:
+    - name: Tema 1 
+      link: /tema1/
+    - name: Tema 2
+      link: /tema2/
+    - name: Tema 3
+      link: /tema3/
