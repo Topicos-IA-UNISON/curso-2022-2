@@ -16,7 +16,7 @@ De acuerdo a [esta página web](https://www.grapheverywhere.com/sistemas-de-reco
 > Los sistemas de recomendación en la actualidad tienen un nivel de eficiencia alto ya que pueden asociar elementos de nuestros perfiles de consumo como el historial de compras, selección de contenidos e inclusive nuestras horas de actividad, para realizar las recomendaciones.
 
 
-### Material para el aprendizaje
+## Material para el aprendizaje
 
 1. El libro [Recommender Systems. The Textbook](http://www.charuaggarwal.net/Recommender-Systems.pdf) de [Charu C. Arrarwal](http://www.charuaggarwal.net).
 2. Una introducción a los sistemas recomendadores en [tds, por Baptiste Rocca](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
@@ -32,7 +32,7 @@ De acuerdo a [esta página web](https://www.grapheverywhere.com/sistemas-de-reco
 
 
 
-## Proyecto sobre el tema
+## Proyecto
 
 Para este tópico, vamos a realizar un sistema recomendador, basado en un conjunto de datos disponibles, y utilizando herramientas. El proyecto final deberá utilizar algún *framework* para su visualización, ya sea en aplicación web o en aplicación movil.
 

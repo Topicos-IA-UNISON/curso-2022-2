@@ -1,5 +1,5 @@
 ---
-title: Análisis Predictivo 
+title: Tópico a especificar 
 subtitle: Tópicos Avanzados en Inteligencia Artificial 
 layout: page
 hero_image: /curso-2021-2/img/rectoria2_muse.jpg
@@ -11,11 +11,12 @@ show_sidebar: false
 
 Especificar el tema
 
+## Material para el aprendizaje
+
+
 ## Actividades de aprendizaje
 
-Listar actividades y evidencias esperadas
 
-## Proyecto sobre el tema
+## Proyecto 
 
-Especificar el proyecto y sus características mínimas para aceptarlo como terminado
 

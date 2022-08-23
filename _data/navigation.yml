@@ -1,15 +1,8 @@
-- name: Acuerdos
+- name: Tópicos
   link: /#
   dropdown:
-    - name: Temario 
-      link: /temario/
-    - name: Evaluación
-      link: /evalua/
     - name: Frameworks
       link: /lang/
-- name: Temas
-  link: /#
-  dropdown:
     - name: Sistemas de recomendación 
       link: /tema1/
     - name: Tema 2
