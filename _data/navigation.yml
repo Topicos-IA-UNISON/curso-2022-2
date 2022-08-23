@@ -5,12 +5,12 @@
       link: /temario/
     - name: Evaluación
       link: /evalua/
-    - name: Lenguaje de programación
+    - name: Frameworks
       link: /lang/
 - name: Temas
   link: /#
   dropdown:
-    - name: Tema 1 
+    - name: Sistemas de recomendación 
       link: /tema1/
     - name: Tema 2
       link: /tema2/

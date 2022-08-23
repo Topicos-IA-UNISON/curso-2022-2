@@ -7,6 +7,9 @@ hero_darken: true
 show_sidebar: false
 ---
 
-# Temario (en orden de votación)
+# Temario 
 
-**A desarrollar**
+Se decidió votar por los temas una vez que se avanzara con el tópico en desarrollo, por lo que la página del curso no estará completa hasta su finalización.
+
+## Tópico 1: Sistemas de Recomendación
+
