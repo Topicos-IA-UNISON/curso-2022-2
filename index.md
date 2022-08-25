@@ -111,7 +111,10 @@ en un contexto tan pequeño como es el curso.
 
 ## Apoyo para la enseñanza
 
-Para este curso nos estaremos apoyando en [DataCamp](https://app.datacamp.com/learn), que es un espacio de aprendizaje enfocado a la Ciencia de Datos, con muchisimos cursos para aprender las técnicas más importantes en python, R y SQL entre otros.
+Los estudiantes del curso hicieron y mantienen un espacio de **Notion** con los calendarios de las presentaciones, acuerdos e inclusive un espacio de noticias interesantes. Si te interesa, contacta a Rodrigo Nevarez
+(`rodrigonev98@gmail.com`) quien maniene el espacio, que por cierto está quedando de pocas.
+
+Para este curso nos estaremos apoyando en [DataCamp](https://app.datacamp.com/learn), que es un espacio de aprendizaje enfocado a la Ciencia de Datos, con muchísimos cursos para aprender las técnicas más importantes en python, R y SQL entre otros.
 
 ![](https://waffles.datacamp.com/logo/logo-regular.svg)
 

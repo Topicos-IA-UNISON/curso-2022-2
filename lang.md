@@ -21,9 +21,8 @@ Para este semestre se decidió entre todos los participantes que queremos utiliz
 Para la comprensión de la nube vamos a iniciar con dos cursos básicos que se encuentran sin costo, gracias a el uso de la plataforma *EdX Campus Essentials* de la Universidad de Sonora:
 
 1. [Introduction to Cloud Computing](https://enterprise.edx.org/uni-sonora/course/IBM+CC0101EN). Opcional
-2. [Introduction to Cloud Infrastructure Technologies](https://enterprise.edx.org/uni-sonora/course/LinuxFoundationX+LFS151.x) de la Linux Foundation. Para el 2 de octubre (que no se olvida) entregar el certificado del curso en pdf.
+2. [Introduction to Cloud Infrastructure Technologies](https://enterprise.edx.org/uni-sonora/course/LinuxFoundationX+LFS151.x) de la Linux Foundation. **Para el 2 de octubre (que no se olvida) entregar el certificado del curso en pdf**.
 
-Fechas para completar los cursos: ???
 
 Recuerda que con tu [GitHub Student Developer Pack](https://education.github.com/pack) tienes, entre otras cosas, acceso a varios servicios de nube sin costo alguno y sin tener que usar una tarjeta de crédito para registrarse.
 
@@ -35,7 +34,7 @@ Aquí vamos a llenar esto en clase directamente.
 2. [Electron](https://electronjs.org) y [su uso desde python](https://github.com/fyears/electron-python-example)
 3. [React](https://reactjs.org/), y [este curso](https://frontendmasters.com/courses/complete-react-v7/)
 
-Para el 15 de septiembre hay que subir alguna evidencia de un aprendizaje sistem{atico de algún *framework*.
+**Para el 15 de septiembre hay que subir alguna evidencia de un aprendizaje sistemático de algún *framework*.**
 
 
 
