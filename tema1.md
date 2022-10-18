@@ -33,6 +33,8 @@ De acuerdo a [esta página web](https://www.grapheverywhere.com/sistemas-de-reco
 
 ### Presentación de temas por parte de los estudiantes:
 
+Vamos a agregar aqui las presentaciones que hayan realizado los estudiantes
+
 1. **Jueves 25 de agosto: Sebastian y Jesús** [Este documento introductorio](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
 2. **Martes 20 de agosto: Héctor y Juventino** [3 librerías para hacer sistemas de recomendación en python](https://towardsdatascience.com/top-3-python-package-to-learn-the-recommendation-system-bb11a916b8ff)
 3. **Martes 20 de agosto: Horacio y Sebas** [recomendaciones de microsoft para sistemas de recomendación](https://github.com/microsoft/recommenders)
@@ -46,4 +48,10 @@ De acuerdo a [esta página web](https://www.grapheverywhere.com/sistemas-de-reco
 ## Proyecto
 
 Para este tópico, vamos a realizar un sistema recomendador, basado en un conjunto de datos disponibles, y utilizando herramientas. El proyecto final deberá utilizar algún *framework* para su visualización, ya sea en aplicación web o en aplicación movil.
+
+| Proyecto | Desarrollador | Enlace |
+| -------- | ------------- | ------ |
+| Nombre del proyecto (enlace a la página de github) | Estudiante (enlace a su página personal) | Liga al proyecto funcionando en la nube |
+
+
 
